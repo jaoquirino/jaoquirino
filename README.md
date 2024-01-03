@@ -28,6 +28,6 @@
 #### <p style="text-align: left;">Studdying</p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,php,vue,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,php,vue,nodejs" />
   </a>
 </p>
