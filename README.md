@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Hi! I'm João César 💜</p>
+# <p style="text-align: center;">Hi! I'm João César</p>
 
 <p align="left">
 <a href="https://git.io/typing-svg">
