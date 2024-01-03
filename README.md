@@ -1,6 +1,6 @@
 # <p style="text-align: center;">Hi! I'm João César 💜</p>
 
-<p align="center">
+<p align="left">
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E47FF&center=true&vCenter=true&random=false&width=300&lines=Front+End+Developer" />
     </a>
@@ -30,6 +30,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=jaoquirino&show_icons=true" />
 </picture>
+
+<p style="text-align: left;"> ‎ </p>
 
 #### <p style="text-align: left;">Main Skills</p>
 <p align="left">
