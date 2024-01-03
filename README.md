@@ -18,8 +18,6 @@
 
 <p style="text-align: left;"> ‎ </p>
 
-<p style="text-align: left;"> ‎ </p>
-
 #### <p style="text-align: left;">Main Skills</p>
 <p align="left">
   <a href="https://skillicons.dev">
